@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Katto</h1>
-<h3 align="center">A passionate ehical hacker from Latin America</h3>
+<h3 align="center">A passionated ehical hacker from Latin America</h3>
 
-- 🔭 I’m currently working on **Techouse Colombia**
+- 🔭 I’m currently working on **virtual machine vulnerabilities**
 
-- 🌱 I’m currently learning **node.js, python and php**
+- 🌱 I’m currently learning **python and bash-scripting**
 
-- 🤝 I’m looking for help with **Techouse Colombia**
-
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about **pentesting**
 
 - 📫 How to reach me **yobandazag2003@gmail.com**
 
